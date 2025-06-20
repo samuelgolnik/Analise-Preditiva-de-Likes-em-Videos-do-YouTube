@@ -1,0 +1,7 @@
+Variable,Correlation_Coefficient_R,P_Value
+Video Age Days,0.1319,0.0000
+View Count,0.9431,0.0000
+Comment Count,0.7170,0.0000
+Duration,-0.0243,0.2147
+Num Tags,0.0647,0.0009
+Channel Subscribers,0.1898,0.0000
